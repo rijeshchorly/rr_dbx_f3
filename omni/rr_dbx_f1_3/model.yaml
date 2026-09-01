@@ -1,7 +1,2 @@
-dynamic_shared_extensions:
-  - user_attribute: rr_dbx_f3
-    mappings:
-      paid:
-        values_for_model: [ paid ]
-      paid_isolated:
-        values_for_model: [ paid_isolated ]
+#this is a test
+{}
