@@ -5,3 +5,6 @@ dynamic_shared_extensions:
         values_for_model: [ paid ]
       paid_isolated:
         values_for_model: [ paid_isolated ]
+
+ai_context: |
+  Always provide your responses in simple clear language, avoid technical terms and do not expose explicit field names in summary responses.
